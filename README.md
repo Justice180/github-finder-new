@@ -66,8 +66,13 @@ npm install
 Run the application
 
 npm start
+
 🔑 Environment Variables
 To use the GitHub API without rate limiting, create a .env file and add:
 
 REACT_APP_GITHUB_CLIENT_ID=your_client_id
 REACT_APP_GITHUB_CLIENT_SECRET=your_client_secret
+
+
+Live: https://githubfinder8366373.netlify.app/
+
